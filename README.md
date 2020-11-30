@@ -5,3 +5,4 @@ Custom Named Entity Recognition annotated using NER Annotated by tecoholic and S
 
 * NER Annotator -  https://github.com/tecoholic/ner-annotator
 * `pvr.txt` - https://www.moneycontrol.com/
+* `spacy` - https://github.com/explosion/spaCy
